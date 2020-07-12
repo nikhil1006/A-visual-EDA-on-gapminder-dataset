@@ -76,6 +76,7 @@ Figure 2: GDP per capita vs. Life Expectancy
 The median life expectancy for all the countries across al years is 60.7 years. An interesting fact is that the median life expectancy across countries is generally going up over time, but maximum GDP per capita is not.
 
 We can group by any variable in your dataset to create a summary. Rather than comparing across time, we might be interested in comparing among continents. We will want to do that within one year of the dataset.
+
 | continent | medianLifeExp | maxGdpPercap |
 |-----------|:-------------:|-------------:|
 | Africa    |    40.5925    |     5487.106 |
